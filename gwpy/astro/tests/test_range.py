@@ -35,10 +35,10 @@ __credits__ = 'Alex Urban <alexander.urban@ligo.org>'
 # -- test results -------------------------------------------------------------
 
 TEST_RESULTS = {
-    'inspiral_range': 19.63418297300058 * units.Mpc,
-    'inspiral_range_psd': 7.922730174148789 * units.Mpc ** 2 / units.Hz,
-    'burst_range': 13.81353542862508 * units.Mpc,
-    'burst_range_spectrum': 35.211595883103456 * units.Mpc,
+    'inspiral_range': 19.33281114 * units.Mpc,
+    'inspiral_range_psd': 7.14425373 * units.Mpc ** 2 / units.Hz,
+    'burst_range': 13.59214083 * units.Mpc,
+    'burst_range_spectrum': 33.43695427 * units.Mpc,
 }
 
 
