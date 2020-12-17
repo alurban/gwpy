@@ -47,6 +47,7 @@ install_requires = [
     'gwdatafind',
     'gwosc >= 0.5.3',
     'h5py >= 2.7.0',
+    'inspiral-range',
     'ligo-segments >= 1.0.0',
     'ligotimegps >= 1.2.1',
     'matplotlib >= 3.1.0',
